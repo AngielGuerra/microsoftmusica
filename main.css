@@ -1,0 +1,29 @@
+body {
+	text-align: center;
+	/*centrar todo*/
+}
+
+.cuadrado-color{
+	background: #f4427a;
+	padding-bottom: 20px; 
+}	
+.this-girl{ 
+	color: red; /*darle color a un elemento nombrandolo*/
+ }
+ h1{
+ 	font-family: 'Nosifer'; /*cambiar fuentes. no olvidar linkear*/
+
+ }
+
+ p{
+ 	font-family: 'Indie Flower';
+ }
+
+ img{
+ 	width: 200px; /*cambiar tamaños de las fotos*/
+ 	height: 170px;
+ }
+ .enlaces{
+ 	border-top: 1px dashed blue; /*separacion entre página y pie de página*/
+ }
+
