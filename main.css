@@ -4,7 +4,7 @@ body {
 }
 
 .cuadrado-color{
-	background: #f4427a;
+	background: green; /*color relleno*/
 	padding-bottom: 20px; 
 }	
 .this-girl{ 
@@ -26,4 +26,6 @@ body {
  .enlaces{
  	border-top: 1px dashed blue; /*separacion entre página y pie de página*/
  }
-
+a. {
+	font-family: 
+}
